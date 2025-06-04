@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+a.youtube-link:link,
+a.youtube-link:visited {
+  color: red;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a.youtube-link:hover {
+  color: green;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1+p{
+    font-weight: bold;
+}
+.destaque{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.destaque{
+    
+    font-weight: bold;
+}
+strong.destaque{
+    color: red;
+}
