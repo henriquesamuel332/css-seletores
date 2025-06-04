@@ -1,4 +1,4 @@
-# css.seletores
+# css-seletores
 # Projeto Desenvolve - Introdução à Programação Web
 ## Informações do Curso
 - *Cidade*: Projeto Desenvolve - [Bom Despacho]
